@@ -1,2 +1,0 @@
-# aspire
-Created with CodeSandbox
